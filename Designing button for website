@@ -11,8 +11,6 @@ p {
 	font-size: 18px;
 }
 
-/*Start adding your CSS below!*/
-
 div {
     height:50px;
     width:120px;
