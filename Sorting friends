@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>My Social Network</title>
+	</head>
+	<body>
+		<!--Add your HTML below!-->
+		<div class="friend" id="best_friend"><p>Navya</p></div>
+		<div class="friend" id="best_friend"><p>Seema</p></div>
+		<div class="friend" id="best_friend"><p>Ruchi</p></div>
+		<div class="friend" id="best_friend"><p>Foram</p></div>
+		<div class="family"><p>Muskan</p></div>
+		<div class="family"><p>Vipin</p></div>
+		<div class="family"><p>Yasha</p></div>
+		<div class="enemy" id="archnemesis"><p>Priya</p></div>
+		<div class="enemy" id="archnemesis"><p>Aishwarya</p></div>
+	</body>
+</html>
