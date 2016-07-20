@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>About Me</title>
+	</head>
+	<body>
+	    
+		<img src="http://dreamatico.com/data_images/flowers/flowers-4.jpg"/>
+		<p>Hi! my name is Divya. I'm a Computer Engineering with proficiency in C, C++, Python, Perl, Cadence Encounter, Xilinx, VHDL, Verilog, HTML, CSS, JS, Ruby etc. I am learning Java these days.</p>
+		<p>Please feel free to contact me if you work with any of the above languages, I would like to contribute to your projects.</p><br/><br/>
+		<div>
+			<a href="https://www.linkedin.com/in/divya-gupta-04">View my profile on <span>LinkedIn!</span></a>
+		</div>
+	</body>
+</html>
